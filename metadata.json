@@ -1,0 +1,5 @@
+{
+  "name": "ImgTrash - Object Repair Analyzer",
+  "description": "Upload an image of a broken object, and ImgTrash will analyze if it can be fixed, suggest repair methods, and estimate the cost using AI.",
+  "requestFramePermissions": []
+}
