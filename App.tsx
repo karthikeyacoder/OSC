@@ -193,7 +193,7 @@ const App: React.FC = () => {
 
         <footer className="mt-16 mb-8 text-center relative z-10">
             <p className="text-sm text-slate-500">
-                Powered by Google Gemini. Results are AI-generated estimates for informational purposes.
+                Karthikeya With Google Gemini. Results are AI-generated estimates With API key.
             </p>
              <p className="text-xs text-slate-600 mt-1">
                 ImgTrash &copy; {new Date().getFullYear()}
